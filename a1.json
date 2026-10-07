@@ -1,0 +1,2339 @@
+[
+ {
+  "id": "a1_001",
+  "block": "a1_b01",
+  "word": "hello",
+  "pos": "exclamation",
+  "ipa": {
+   "us": "/həˈloʊ/",
+   "uk": "/həˈləʊ/"
+  },
+  "uz": [
+   "salom"
+  ],
+  "synonyms": [
+   {
+    "w": "hi",
+    "level": "A1"
+   },
+   {
+    "w": "hey",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Odam bilan uchrashganda yoki telefonda gaplashishni boshlaganda ishlatiladi. Speaking Part 1 da examiner bilan birinchi salom uchun mos, 'hey' esa faqat do'stlar orasida aytiladi.",
+  "example": "Hello, my name is Hasan.",
+  "example_uz": "Salom, mening ismim Hasan.",
+  "topic": "Greetings",
+  "ielts_tip": "Speaking'da 'Hello' yoki 'Good morning' deb boshlang, 'hey' ishlatmang."
+ },
+ {
+  "id": "a1_002",
+  "block": "a1_b01",
+  "word": "goodbye",
+  "pos": "exclamation",
+  "ipa": {
+   "us": "/ɡʊdˈbaɪ/",
+   "uk": "/ɡʊdˈbaɪ/"
+  },
+  "uz": [
+   "xayr",
+   "xayr-ma'zur"
+  ],
+  "synonyms": [
+   {
+    "w": "bye",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Suhbat yoki uchrashuv oxirida xayrlashish uchun aytiladi. 'Bye' qisqa va norasmiy, 'goodbye' esa biroz rasmiyroq.",
+  "example": "She said goodbye and left the room.",
+  "example_uz": "U xayrlashib, xonadan chiqib ketdi.",
+  "topic": "Greetings",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_003",
+  "block": "a1_b01",
+  "word": "please",
+  "pos": "adverb",
+  "ipa": {
+   "us": "/pliːz/",
+   "uk": "/pliːz/"
+  },
+  "uz": [
+   "iltimos",
+   "marhamat"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "So'rovni muloyim qilish uchun gapning oxiriga yoki boshiga qo'yiladi. Ingliz tilida buyruq bergandan ko'ra 'please' bilan so'rash odobliroq hisoblanadi.",
+  "example": "Can you open the window, please?",
+  "example_uz": "Iltimos, derazani ocha olasizmi?",
+  "topic": "Daily life",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_004",
+  "block": "a1_b01",
+  "word": "thank",
+  "pos": "verb",
+  "ipa": {
+   "us": "/θæŋk/",
+   "uk": "/θæŋk/"
+  },
+  "uz": [
+   "rahmat aytmoq",
+   "minnatdorchilik bildirmoq"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ko'pincha 'Thank you' yoki 'Thanks' shaklida ishlatiladi. 'th' tovushi tilning uchini tishlar orasiga qo'yib aytiladi, o'zbek tilida bunday tovush yo'q.",
+  "example": "I want to thank my teacher for her help.",
+  "example_uz": "Men o'qituvchimga yordami uchun rahmat aytmoqchiman.",
+  "topic": "Daily life",
+  "ielts_tip": "Talaffuz: 't' emas, 'th' (θ) tovushini mashq qiling."
+ },
+ {
+  "id": "a1_005",
+  "block": "a1_b01",
+  "word": "sorry",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ˈsɑːri/",
+   "uk": "/ˈsɒri/"
+  },
+  "uz": [
+   "afsusdaman",
+   "uzr"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Xato qilganda uzr so'rash uchun ('I'm sorry') yoki biror yomon xabarga hamdardlik bildirish uchun ('I'm sorry to hear that') aytiladi. Gapni yaxshi eshitmaganda 'Sorry?' deb qayta so'rash ham mumkin.",
+  "example": "I'm sorry I am late.",
+  "example_uz": "Kech qolganim uchun uzr.",
+  "topic": "Daily life",
+  "ielts_tip": "Speaking'da savol tushunilmasa 'Sorry, could you repeat that?' deb so'rash mumkin."
+ },
+ {
+  "id": "a1_006",
+  "block": "a1_b01",
+  "word": "yes",
+  "pos": "adverb",
+  "ipa": {
+   "us": "/jes/",
+   "uk": "/jes/"
+  },
+  "uz": [
+   "ha"
+  ],
+  "synonyms": [
+   {
+    "w": "yeah",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Savolga rozilik bildirish uchun ishlatiladi. 'Yeah' og'zaki va norasmiy, rasmiy vaziyatda 'yes' deyiladi.",
+  "example": "Yes, I live in Tashkent.",
+  "example_uz": "Ha, men Toshkentda yashayman.",
+  "topic": "Daily life",
+  "ielts_tip": "Speaking'da faqat 'Yes' deb to'xtamang, 1-2 gap qo'shib davom eting."
+ },
+ {
+  "id": "a1_007",
+  "block": "a1_b01",
+  "word": "name",
+  "pos": "noun",
+  "ipa": {
+   "us": "/neɪm/",
+   "uk": "/neɪm/"
+  },
+  "uz": [
+   "ism",
+   "nom"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Odam, joy yoki narsaning nomini aytganda ishlatiladi. Tanishuvda 'My name is...' deyiladi.",
+  "example": "What is your name?",
+  "example_uz": "Ismingiz nima?",
+  "topic": "Personal info",
+  "ielts_tip": "Speaking Part 1 da examiner 'Can you tell me your full name?' deb so'raydi."
+ },
+ {
+  "id": "a1_008",
+  "block": "a1_b01",
+  "word": "family",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈfæməli/",
+   "uk": "/ˈfæməli/"
+  },
+  "uz": [
+   "oila"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ota-ona, bola va qarindoshlarni anglatadi. IELTS Speaking'da eng ko'p so'raladigan mavzulardan biri.",
+  "example": "I have a small family.",
+  "example_uz": "Mening oilam kichik.",
+  "topic": "Family",
+  "ielts_tip": "Speaking Part 1 da 'Tell me about your family' savoli tez-tez keladi."
+ },
+ {
+  "id": "a1_009",
+  "block": "a1_b01",
+  "word": "mother",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈmʌðər/",
+   "uk": "/ˈmʌðə/"
+  },
+  "uz": [
+   "ona",
+   "oyi"
+  ],
+  "synonyms": [
+   {
+    "w": "mom",
+    "level": "A1"
+   },
+   {
+    "w": "mum",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "'Mother' to'liq va rasmiyroq, 'mom' (Amerika) va 'mum' (Britaniya) kundalik gapda ishlatiladi. Yozma ishda 'mother' tanlang.",
+  "example": "My mother works in a hospital.",
+  "example_uz": "Onam kasalxonada ishlaydi.",
+  "topic": "Family",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_010",
+  "block": "a1_b01",
+  "word": "father",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈfɑːðər/",
+   "uk": "/ˈfɑːðə/"
+  },
+  "uz": [
+   "ota",
+   "dada"
+  ],
+  "synonyms": [
+   {
+    "w": "dad",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "'Father' rasmiyroq, 'dad' og'zaki va norasmiy. Yozma ishda 'father' ishlatiladi.",
+  "example": "My father is a driver.",
+  "example_uz": "Otam haydovchi.",
+  "topic": "Family",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_011",
+  "block": "a1_b01",
+  "word": "brother",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈbrʌðər/",
+   "uk": "/ˈbrʌðə/"
+  },
+  "uz": [
+   "aka",
+   "uka"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ingliz tilida aka va uka alohida so'z bilan ajratilmaydi. Yoshini aytish uchun 'older brother' (aka) yoki 'younger brother' (uka) deyiladi.",
+  "example": "My older brother studies at university.",
+  "example_uz": "Akam universitetda o'qiydi.",
+  "topic": "Family",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_012",
+  "block": "a1_b01",
+  "word": "sister",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈsɪstər/",
+   "uk": "/ˈsɪstə/"
+  },
+  "uz": [
+   "opa",
+   "singil"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Opa va singil ham bitta so'z bilan ataladi. Aniqlash uchun 'older sister' (opa) yoki 'younger sister' (singil) deyiladi.",
+  "example": "I have one younger sister.",
+  "example_uz": "Mening bitta singlim bor.",
+  "topic": "Family",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_013",
+  "block": "a1_b01",
+  "word": "friend",
+  "pos": "noun",
+  "ipa": {
+   "us": "/frend/",
+   "uk": "/frend/"
+  },
+  "uz": [
+   "do'st"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yaqin tanish yoki do'st uchun ishlatiladi. 'Best friend' eng yaqin do'st. Imlo: 'ie' harflari birga yoziladi va 'friend' dagi 'i' talaffuz qilinmaydi.",
+  "example": "My best friend lives near my house.",
+  "example_uz": "Eng yaqin do'stim uyimga yaqin yashaydi.",
+  "topic": "Relationships",
+  "ielts_tip": "Imloda tez-tez xato qilinadi: friend (friend, 'freind' emas)."
+ },
+ {
+  "id": "a1_014",
+  "block": "a1_b01",
+  "word": "child",
+  "pos": "noun",
+  "ipa": {
+   "us": "/tʃaɪld/",
+   "uk": "/tʃaɪld/"
+  },
+  "uz": [
+   "bola"
+  ],
+  "synonyms": [
+   {
+    "w": "kid",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Yosh bolani bildiradi. Ko'plik shakli tartibsiz: 'children' ('childs' emas). 'Kid' og'zaki nutqda ishlatiladi.",
+  "example": "The child is playing in the garden.",
+  "example_uz": "Bola bog'da o'ynayapti.",
+  "topic": "Family",
+  "ielts_tip": "Ko'plik: children (childs emas)."
+ },
+ {
+  "id": "a1_015",
+  "block": "a1_b01",
+  "word": "man",
+  "pos": "noun",
+  "ipa": {
+   "us": "/mæn/",
+   "uk": "/mæn/"
+  },
+  "uz": [
+   "erkak"
+  ],
+  "synonyms": [
+   {
+    "w": "guy",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Katta yoshdagi erkakni bildiradi. Ko'plik shakli tartibsiz: 'men'. 'Guy' og'zaki nutqda ishlatiladi.",
+  "example": "The man is reading a newspaper.",
+  "example_uz": "Erkak gazeta o'qiyapti.",
+  "topic": "People",
+  "ielts_tip": "Ko'plik: men (mans emas)."
+ },
+ {
+  "id": "a1_016",
+  "block": "a1_b01",
+  "word": "woman",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈwʊmən/",
+   "uk": "/ˈwʊmən/"
+  },
+  "uz": [
+   "ayol"
+  ],
+  "synonyms": [
+   {
+    "w": "lady",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Katta yoshdagi ayolni bildiradi. Ko'plik shakli tartibsiz: 'women' (talaffuzi /ˈwɪmɪn/). 'Lady' muloyimroq, ko'pincha qo'shimcha hurmat bilan aytiladi.",
+  "example": "The woman is waiting for the bus.",
+  "example_uz": "Ayol avtobusni kutyapti.",
+  "topic": "People",
+  "ielts_tip": "Ko'plik: women (womans emas)."
+ },
+ {
+  "id": "a1_017",
+  "block": "a1_b01",
+  "word": "boy",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bɔɪ/",
+   "uk": "/bɔɪ/"
+  },
+  "uz": [
+   "o'g'il bola"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yosh o'g'il bolani bildiradi (taxminan 15-16 yoshgacha). Kattalarga nisbatan ishlatilmaydi.",
+  "example": "The boy is eating an apple.",
+  "example_uz": "O'g'il bola olma yeyapti.",
+  "topic": "People",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_018",
+  "block": "a1_b01",
+  "word": "girl",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ɡɜːrl/",
+   "uk": "/ɡɜːl/"
+  },
+  "uz": [
+   "qiz bola"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yosh qiz bolani bildiradi. Kattalar uchun 'woman' ishlatiladi.",
+  "example": "The girl has long black hair.",
+  "example_uz": "Qiz bolaning uzun qora sochlari bor.",
+  "topic": "People",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_019",
+  "block": "a1_b01",
+  "word": "teacher",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈtiːtʃər/",
+   "uk": "/ˈtiːtʃə/"
+  },
+  "uz": [
+   "o'qituvchi",
+   "ustoz"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Maktab yoki kursda dars beradigan odam. 'Teach' (o'rgatmoq) fe'lidan yasalgan, '-er' qo'shimchasi kasb egasini bildiradi.",
+  "example": "My English teacher is very kind.",
+  "example_uz": "Ingliz tili o'qituvchim juda mehribon.",
+  "topic": "Education",
+  "ielts_tip": "Education mavzusida (Speaking Part 1) ko'p kerak bo'ladi."
+ },
+ {
+  "id": "a1_020",
+  "block": "a1_b01",
+  "word": "student",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈstuːdnt/",
+   "uk": "/ˈstjuːdnt/"
+  },
+  "uz": [
+   "talaba",
+   "o'quvchi"
+  ],
+  "synonyms": [
+   {
+    "w": "pupil",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Universitet yoki kollejda o'qiydigan odam. Maktab o'quvchisi uchun Britaniya ingliz tilida 'pupil' ham ishlatiladi.",
+  "example": "She is a student at a university in Samarkand.",
+  "example_uz": "U Samarqanddagi universitetda talaba.",
+  "topic": "Education",
+  "ielts_tip": "Speaking Part 1: 'Are you a student or do you work?' savoliga tayyor bo'ling."
+ },
+ {
+  "id": "a1_021",
+  "block": "a1_b02",
+  "word": "house",
+  "pos": "noun",
+  "ipa": {
+   "us": "/haʊs/",
+   "uk": "/haʊs/"
+  },
+  "uz": [
+   "uy",
+   "bino"
+  ],
+  "synonyms": [
+   {
+    "w": "home",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "'House' binoning o'zini (jismoniy uyni) bildiradi. 'Home' esa odam yashaydigan joy, ya'ni 'oilaviy makon' ma'nosida ishlatiladi. Masalan, 'a big house' deymiz, lekin 'I'm at home' deymiz ('at house' emas).",
+  "example": "They live in a small house near the river.",
+  "example_uz": "Ular daryo yaqinidagi kichik uyda yashaydi.",
+  "topic": "Home",
+  "ielts_tip": "Speaking Part 1 da 'Describe your home' mavzusi tez-tez keladi."
+ },
+ {
+  "id": "a1_022",
+  "block": "a1_b02",
+  "word": "room",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ruːm/",
+   "uk": "/ruːm/"
+  },
+  "uz": [
+   "xona"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Uy yoki binoning ichidagi bo'lma. 'Bedroom' (yotoqxona), 'living room' (mehmonxona) kabi so'zlarning asosi. 'Room' sanaladigan otdir, 'space' (joy) esa sanalmaydi.",
+  "example": "My room is on the second floor.",
+  "example_uz": "Mening xonam ikkinchi qavatda.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_023",
+  "block": "a1_b02",
+  "word": "door",
+  "pos": "noun",
+  "ipa": {
+   "us": "/dɔːr/",
+   "uk": "/dɔː/"
+  },
+  "uz": [
+   "eshik"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Xona yoki uyga kirish va chiqish uchun eshik. 'Open the door' (eshikni ochmoq), 'close the door' (yopmoq) birikmalari ko'p ishlatiladi.",
+  "example": "Please close the door when you leave.",
+  "example_uz": "Chiqqanda eshikni yoping, iltimos.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_024",
+  "block": "a1_b02",
+  "word": "window",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈwɪndoʊ/",
+   "uk": "/ˈwɪndəʊ/"
+  },
+  "uz": [
+   "deraza"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Xona yoki mashinadagi deraza. Odatda 'open the window' (derazani ochmoq) va 'look out of the window' (derazadan tashqariga qaramoq) shaklida ishlatiladi.",
+  "example": "She is looking out of the window.",
+  "example_uz": "U derazadan tashqariga qarayapti.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_025",
+  "block": "a1_b02",
+  "word": "table",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈteɪbl/",
+   "uk": "/ˈteɪbl/"
+  },
+  "uz": [
+   "stol"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ovqatlanish, ishlash yoki o'qish uchun stol. Restoranda 'a table for two' (ikki kishilik stol) deb bron qilinadi.",
+  "example": "The books are on the table.",
+  "example_uz": "Kitoblar stol ustida.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_026",
+  "block": "a1_b02",
+  "word": "chair",
+  "pos": "noun",
+  "ipa": {
+   "us": "/tʃer/",
+   "uk": "/tʃeə/"
+  },
+  "uz": [
+   "stul"
+  ],
+  "synonyms": [
+   {
+    "w": "seat",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Bir kishi o'tiradigan suyanchiqli stul. 'Seat' kengroq so'z: avtobus, kino yoki samolyotdagi o'rindiq ham 'seat'.",
+  "example": "Please sit on that chair.",
+  "example_uz": "Iltimos, o'sha stulga o'tiring.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_027",
+  "block": "a1_b02",
+  "word": "bed",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bed/",
+   "uk": "/bed/"
+  },
+  "uz": [
+   "karavot",
+   "to'shak"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Uxlash uchun mebel. 'Go to bed' (uxlashga yotmoq) birikmasida artikl ishlatilmaydi: 'I go to bed at 11', 'the bed' emas.",
+  "example": "I usually go to bed at eleven o'clock.",
+  "example_uz": "Men odatda soat o'n birda yotaman.",
+  "topic": "Home",
+  "ielts_tip": "Speaking'da 'daily routine' mavzusida 'go to bed' birikmasi kerak bo'ladi."
+ },
+ {
+  "id": "a1_028",
+  "block": "a1_b02",
+  "word": "kitchen",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈkɪtʃɪn/",
+   "uk": "/ˈkɪtʃɪn/"
+  },
+  "uz": [
+   "oshxona"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ovqat tayyorlanadigan xona. 'Cook in the kitchen' (oshxonada pishirmoq) kabi gaplarda ishlatiladi. Imlo: 'tch' harflari birga yoziladi.",
+  "example": "My mother is cooking in the kitchen.",
+  "example_uz": "Onam oshxonada ovqat pishiryapti.",
+  "topic": "Home",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_029",
+  "block": "a1_b02",
+  "word": "school",
+  "pos": "noun",
+  "ipa": {
+   "us": "/skuːl/",
+   "uk": "/skuːl/"
+  },
+  "uz": [
+   "maktab"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Bolalar o'qiydigan joy. 'Go to school' (maktabga bormoq) da artikl ishlatilmaydi. Universitet uchun 'university' yoki 'college' deyiladi.",
+  "example": "My brother goes to school by bus.",
+  "example_uz": "Akam maktabga avtobusda boradi.",
+  "topic": "Education",
+  "ielts_tip": "Speaking Part 1: 'Tell me about your school' savoliga tayyor bo'ling."
+ },
+ {
+  "id": "a1_030",
+  "block": "a1_b02",
+  "word": "city",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈsɪti/",
+   "uk": "/ˈsɪti/"
+  },
+  "uz": [
+   "shahar"
+  ],
+  "synonyms": [
+   {
+    "w": "town",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Katta aholi yashaydigan joy. 'Town' kichikroq shahar. Ko'plik shakli 'cities' ('citys' emas).",
+  "example": "Tashkent is a big and busy city.",
+  "example_uz": "Toshkent katta va gavjum shahar.",
+  "topic": "Places",
+  "ielts_tip": "Speaking'da 'hometown' mavzusi uchun juda kerak. Ko'plik: cities."
+ },
+ {
+  "id": "a1_031",
+  "block": "a1_b02",
+  "word": "street",
+  "pos": "noun",
+  "ipa": {
+   "us": "/striːt/",
+   "uk": "/striːt/"
+  },
+  "uz": [
+   "ko'cha"
+  ],
+  "synonyms": [
+   {
+    "w": "road",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Shahar ichidagi, ikki tomonida uylar bo'lgan ko'cha. 'Road' esa ko'proq shaharlar va joylarni bog'laydigan yo'l. Manzilda 'on Navoi Street' deyiladi.",
+  "example": "There is a small shop on my street.",
+  "example_uz": "Mening ko'chamda kichik do'kon bor.",
+  "topic": "Places",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_032",
+  "block": "a1_b02",
+  "word": "shop",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ʃɑːp/",
+   "uk": "/ʃɒp/"
+  },
+  "uz": [
+   "do'kon"
+  ],
+  "synonyms": [
+   {
+    "w": "store",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Narsa sotiladigan kichik joy. Britaniya ingliz tilida 'shop', Amerikada ko'proq 'store' ishlatiladi. 'Shop' fe'l sifatida ham bor: 'to shop' (xarid qilmoq).",
+  "example": "I bought some bread at the shop.",
+  "example_uz": "Men do'kondan non sotib oldim.",
+  "topic": "Shopping",
+  "ielts_tip": "Britaniya: shop, Amerika: store. Yozma ishda bittasini tanlab, shunga amal qiling."
+ },
+ {
+  "id": "a1_033",
+  "block": "a1_b02",
+  "word": "book",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bʊk/",
+   "uk": "/bʊk/"
+  },
+  "uz": [
+   "kitob"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "O'qish uchun kitob. 'Read a book' (kitob o'qimoq). 'Book' fe'l sifatida 'bron qilmoq' ma'nosida ham ishlatiladi: 'book a ticket'.",
+  "example": "I read a book every week.",
+  "example_uz": "Men har hafta bitta kitob o'qiyman.",
+  "topic": "Education",
+  "ielts_tip": "Speaking'da 'Do you like reading?' mavzusida kerak."
+ },
+ {
+  "id": "a1_034",
+  "block": "a1_b02",
+  "word": "pen",
+  "pos": "noun",
+  "ipa": {
+   "us": "/pen/",
+   "uk": "/pen/"
+  },
+  "uz": [
+   "ruchka"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yozish uchun ruchka. 'Pencil' (qalam) bilan adashtirmang. IELTS Writing imtihonida qalam bilan yoziladi.",
+  "example": "Can I borrow your pen?",
+  "example_uz": "Ruchkangizni olib turishim mumkinmi?",
+  "topic": "Education",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_035",
+  "block": "a1_b02",
+  "word": "bag",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bæɡ/",
+   "uk": "/bæɡ/"
+  },
+  "uz": [
+   "sumka",
+   "xalta"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Narsa ko'tarish uchun sumka yoki xalta. 'School bag' (maktab sumkasi), 'shopping bag' (xarid xaltasi) kabi birikmalarda ishlatiladi.",
+  "example": "She put her books in her bag.",
+  "example_uz": "U kitoblarini sumkasiga soldi.",
+  "topic": "Daily life",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_036",
+  "block": "a1_b02",
+  "word": "phone",
+  "pos": "noun",
+  "ipa": {
+   "us": "/foʊn/",
+   "uk": "/fəʊn/"
+  },
+  "uz": [
+   "telefon"
+  ],
+  "synonyms": [
+   {
+    "w": "mobile",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Aloqa qurilmasi. 'Mobile' Britaniya ingliz tilida mobil telefonni anglatadi, Amerikada 'cell phone' deyiladi. Fe'l sifatida ham bor: 'to phone someone' (qo'ng'iroq qilmoq).",
+  "example": "My phone is on the table.",
+  "example_uz": "Telefonim stol ustida.",
+  "topic": "Technology",
+  "ielts_tip": "Speaking'da texnologiya mavzusida ko'p ishlatiladi."
+ },
+ {
+  "id": "a1_037",
+  "block": "a1_b02",
+  "word": "computer",
+  "pos": "noun",
+  "ipa": {
+   "us": "/kəmˈpjuːtər/",
+   "uk": "/kəmˈpjuːtə/"
+  },
+  "uz": [
+   "kompyuter"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ish, o'qish va o'yin uchun elektron qurilma. Urg'u ikkinchi bo'g'inda: com-PU-ter, birinchisida emas.",
+  "example": "I use my computer to study English.",
+  "example_uz": "Men ingliz tilini o'rganish uchun kompyuterdan foydalanaman.",
+  "topic": "Technology",
+  "ielts_tip": "Urg'u: com-PU-ter (kom-pyu-ter emas)."
+ },
+ {
+  "id": "a1_038",
+  "block": "a1_b02",
+  "word": "car",
+  "pos": "noun",
+  "ipa": {
+   "us": "/kɑːr/",
+   "uk": "/kɑː/"
+  },
+  "uz": [
+   "mashina",
+   "avtomobil"
+  ],
+  "synonyms": [
+   {
+    "w": "automobile",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Shaxsiy avtomobil. 'By car' (mashinada) birikmasida artikl ishlatilmaydi. 'Automobile' rasmiyroq va kam ishlatiladi, ko'pincha yozma matnda uchraydi.",
+  "example": "My father goes to work by car.",
+  "example_uz": "Otam ishga mashinada boradi.",
+  "topic": "Transport",
+  "ielts_tip": "'By car', 'by bus', 'by train' deymiz, artikl yo'q."
+ },
+ {
+  "id": "a1_039",
+  "block": "a1_b02",
+  "word": "bus",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bʌs/",
+   "uk": "/bʌs/"
+  },
+  "uz": [
+   "avtobus"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Shahar ichida yoki shaharlar orasida yo'lovchi tashiydigan transport. Ko'plik shakli 'buses'. 'By bus' (avtobusda) birikmasida artikl yo'q.",
+  "example": "I take the bus to school every day.",
+  "example_uz": "Men har kuni maktabga avtobusda boraman.",
+  "topic": "Transport",
+  "ielts_tip": "Ko'plik: buses."
+ },
+ {
+  "id": "a1_040",
+  "block": "a1_b02",
+  "word": "train",
+  "pos": "noun",
+  "ipa": {
+   "us": "/treɪn/",
+   "uk": "/treɪn/"
+  },
+  "uz": [
+   "poyezd"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Temir yo'lda yuradigan transport. 'By train' (poyezdda) birikmasida artikl yo'q. 'Train' fe'l sifatida ham bor: 'to train' (mashq qilmoq).",
+  "example": "The train to Samarkand leaves at nine.",
+  "example_uz": "Samarqandga poyezd soat to'qqizda jo'naydi.",
+  "topic": "Transport",
+  "ielts_tip": "Transport mavzusida: by train, by bus, by car (artikl yo'q)."
+ },
+ {
+  "id": "a1_041",
+  "block": "a1_b03",
+  "word": "water",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈwɔːtər/",
+   "uk": "/ˈwɔːtə/"
+  },
+  "uz": [
+   "suv"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ichimlik yoki yuvinish uchun suv. Sanalmaydigan ot: 'a water' emas, 'water' yoki 'a glass of water' (bir stakan suv) deyiladi. Ko'plik shakli odatda ishlatilmaydi.",
+  "example": "I drink two liters of water every day.",
+  "example_uz": "Men har kuni ikki litr suv ichaman.",
+  "topic": "Food",
+  "ielts_tip": "Sanalmaydigan ot: a glass of water, 'waters' emas."
+ },
+ {
+  "id": "a1_042",
+  "block": "a1_b03",
+  "word": "food",
+  "pos": "noun",
+  "ipa": {
+   "us": "/fuːd/",
+   "uk": "/fuːd/"
+  },
+  "uz": [
+   "ovqat",
+   "oziq-ovqat"
+  ],
+  "synonyms": [
+   {
+    "w": "meal",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Yeydigan hamma narsaning umumiy nomi. Sanalmaydigan ot. Bitta ovqatlanish ('nonushta', 'tushlik') uchun 'meal' ishlatiladi, 'food' esa ovqatning o'zi.",
+  "example": "Uzbek food is very delicious.",
+  "example_uz": "O'zbek ovqatlari juda mazali.",
+  "topic": "Food",
+  "ielts_tip": "Speaking Part 1: 'What food do you like?' savoli juda ko'p keladi."
+ },
+ {
+  "id": "a1_043",
+  "block": "a1_b03",
+  "word": "bread",
+  "pos": "noun",
+  "ipa": {
+   "us": "/bred/",
+   "uk": "/bred/"
+  },
+  "uz": [
+   "non"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Non. Sanalmaydigan ot: bitta bo'lak uchun 'a piece of bread' yoki 'a slice of bread', butun non uchun 'a loaf of bread' deyiladi.",
+  "example": "I buy fresh bread every morning.",
+  "example_uz": "Men har ertalab yangi non sotib olaman.",
+  "topic": "Food",
+  "ielts_tip": "'A bread' deb bo'lmaydi: a loaf of bread."
+ },
+ {
+  "id": "a1_044",
+  "block": "a1_b03",
+  "word": "milk",
+  "pos": "noun",
+  "ipa": {
+   "us": "/mɪlk/",
+   "uk": "/mɪlk/"
+  },
+  "uz": [
+   "sut"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Sut. Sanalmaydigan ot: 'a glass of milk' (bir stakan sut). Fe'l sifatida ham bor ('sog'moq'), lekin bu A1 uchun kerak emas.",
+  "example": "Children should drink milk every day.",
+  "example_uz": "Bolalar har kuni sut ichishi kerak.",
+  "topic": "Food",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_045",
+  "block": "a1_b03",
+  "word": "apple",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈæpl/",
+   "uk": "/ˈæpl/"
+  },
+  "uz": [
+   "olma"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Olma. Unli tovushdan boshlangani uchun artikl 'an': 'an apple' ('a apple' emas). Ko'plik: apples.",
+  "example": "She eats an apple after lunch.",
+  "example_uz": "U tushlikdan keyin olma yeydi.",
+  "topic": "Food",
+  "ielts_tip": "Artikl: an apple."
+ },
+ {
+  "id": "a1_046",
+  "block": "a1_b03",
+  "word": "egg",
+  "pos": "noun",
+  "ipa": {
+   "us": "/eɡ/",
+   "uk": "/eɡ/"
+  },
+  "uz": [
+   "tuxum"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Tuxum. Unli tovushdan boshlangani uchun 'an egg'. Nonushtada 'fried egg' (qovurilgan tuxum) yoki 'boiled egg' (qaynatilgan tuxum) deyiladi.",
+  "example": "I have two eggs for breakfast.",
+  "example_uz": "Men nonushtada ikkita tuxum yeyman.",
+  "topic": "Food",
+  "ielts_tip": "Artikl: an egg."
+ },
+ {
+  "id": "a1_047",
+  "block": "a1_b03",
+  "word": "rice",
+  "pos": "noun",
+  "ipa": {
+   "us": "/raɪs/",
+   "uk": "/raɪs/"
+  },
+  "uz": [
+   "guruch",
+   "guruch ovqati"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Guruch yoki pishirilgan guruch. Sanalmaydigan ot: 'a bowl of rice' (bir kosa guruch). Osh uchun alohida so'z yo'q, odatda 'plov' deyiladi.",
+  "example": "We eat rice with meat and carrots.",
+  "example_uz": "Biz guruchni go'sht va sabzi bilan yeymiz.",
+  "topic": "Food",
+  "ielts_tip": "O'zbek taomi haqida gapirishda 'plov' so'zi ishlatiladi."
+ },
+ {
+  "id": "a1_048",
+  "block": "a1_b03",
+  "word": "meat",
+  "pos": "noun",
+  "ipa": {
+   "us": "/miːt/",
+   "uk": "/miːt/"
+  },
+  "uz": [
+   "go'sht"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Hayvon go'shti. Sanalmaydigan ot. 'Meet' (uchrashmoq) bilan bir xil o'qiladi, lekin imlosi va ma'nosi boshqa: bu so'zlarni adashtirmang.",
+  "example": "My father doesn't eat meat on Fridays.",
+  "example_uz": "Otam juma kunlari go'sht yemaydi.",
+  "topic": "Food",
+  "ielts_tip": "Imlo: meat (go'sht) va meet (uchrashmoq) bir xil o'qiladi."
+ },
+ {
+  "id": "a1_049",
+  "block": "a1_b03",
+  "word": "tea",
+  "pos": "noun",
+  "ipa": {
+   "us": "/tiː/",
+   "uk": "/tiː/"
+  },
+  "uz": [
+   "choy"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Choy. Odatda sanalmaydigan ot, lekin 'two teas' (ikki piyola choy) deb ham ishlatiladi. 'Green tea' (ko'k choy), 'black tea' (qora choy).",
+  "example": "Would you like some tea?",
+  "example_uz": "Choy ichasizmi?",
+  "topic": "Food",
+  "ielts_tip": "Madaniyat mavzusida: 'Tea is an important part of our culture.'"
+ },
+ {
+  "id": "a1_050",
+  "block": "a1_b03",
+  "word": "coffee",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈkɔːfi/",
+   "uk": "/ˈkɒfi/"
+  },
+  "uz": [
+   "qahva",
+   "kofe"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Qahva. Odatda sanalmaydigan ot, lekin kafeda 'two coffees, please' (ikkita qahva) deb aytish mumkin. Imlo: 'ff' va 'ee' ikkitadan.",
+  "example": "I drink coffee in the morning.",
+  "example_uz": "Men ertalab qahva ichaman.",
+  "topic": "Food",
+  "ielts_tip": "Imlo: coffee (ikkita f va ikkita e)."
+ },
+ {
+  "id": "a1_051",
+  "block": "a1_b03",
+  "word": "breakfast",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈbrekfəst/",
+   "uk": "/ˈbrekfəst/"
+  },
+  "uz": [
+   "nonushta"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ertalabki ovqat. 'Have breakfast' (nonushta qilmoq) birikmasida artikl ishlatilmaydi. Talaffuzda 'k' dan keyin 'f' keladi, ikkinchi bo'g'inda 'a' ni juda yengil aytamiz.",
+  "example": "I have breakfast at seven o'clock.",
+  "example_uz": "Men soat yettida nonushta qilaman.",
+  "topic": "Food",
+  "ielts_tip": "Daily routine mavzusida: 'have breakfast' (a breakfast emas)."
+ },
+ {
+  "id": "a1_052",
+  "block": "a1_b03",
+  "word": "lunch",
+  "pos": "noun",
+  "ipa": {
+   "us": "/lʌntʃ/",
+   "uk": "/lʌntʃ/"
+  },
+  "uz": [
+   "tushlik"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Kunduzgi ovqat. 'Have lunch' (tushlik qilmoq) birikmasida artikl yo'q. Fe'l sifatida kam ishlatiladi.",
+  "example": "We have lunch at school.",
+  "example_uz": "Biz maktabda tushlik qilamiz.",
+  "topic": "Food",
+  "ielts_tip": "Have lunch (a lunch emas)."
+ },
+ {
+  "id": "a1_053",
+  "block": "a1_b03",
+  "word": "dinner",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈdɪnər/",
+   "uk": "/ˈdɪnə/"
+  },
+  "uz": [
+   "kechki ovqat"
+  ],
+  "synonyms": [
+   {
+    "w": "supper",
+    "level": "B1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Kechki asosiy ovqat. 'Have dinner' (kechki ovqat yemoq) birikmasida artikl yo'q. Ba'zi joylarda 'dinner' kunduzgi katta ovqatni ham bildirishi mumkin, 'supper' esa yengilroq kechki ovqat.",
+  "example": "My family has dinner together every evening.",
+  "example_uz": "Oilam har kechqurun birga kechki ovqat yeydi.",
+  "topic": "Food",
+  "ielts_tip": "Imlo: dinner (ikkita n)."
+ },
+ {
+  "id": "a1_054",
+  "block": "a1_b03",
+  "word": "day",
+  "pos": "noun",
+  "ipa": {
+   "us": "/deɪ/",
+   "uk": "/deɪ/"
+  },
+  "uz": [
+   "kun"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "24 soatlik vaqt yoki kunduzgi vaqt. 'Every day' (har kuni), 'one day' (bir kuni), 'all day' (kun bo'yi) kabi birikmalarda ko'p ishlatiladi. Kun nomlari bilan 'on Monday' deyiladi.",
+  "example": "I study English every day.",
+  "example_uz": "Men har kuni ingliz tilini o'rganaman.",
+  "topic": "Time",
+  "ielts_tip": "Speaking'da 'on a typical day' birikmasi foydali."
+ },
+ {
+  "id": "a1_055",
+  "block": "a1_b03",
+  "word": "night",
+  "pos": "noun",
+  "ipa": {
+   "us": "/naɪt/",
+   "uk": "/naɪt/"
+  },
+  "uz": [
+   "tun",
+   "kecha"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Qorong'i vaqt, kechqurundan ertalabgacha. 'At night' (tunda) deyiladi, 'in the night' emas. 'Last night' (kecha kechqurun/tunda), 'tonight' (bugun kechqurun). Imlo: 'gh' o'qilmaydi.",
+  "example": "I sleep eight hours at night.",
+  "example_uz": "Men tunda sakkiz soat uxlayman.",
+  "topic": "Time",
+  "ielts_tip": "At night (in the night emas). Imlo: night (gh o'qilmaydi)."
+ },
+ {
+  "id": "a1_056",
+  "block": "a1_b03",
+  "word": "morning",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈmɔːrnɪŋ/",
+   "uk": "/ˈmɔːnɪŋ/"
+  },
+  "uz": [
+   "ertalab",
+   "tong"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Tongdan tushgacha bo'lgan vaqt. 'In the morning' (ertalab) deyiladi. Salomlashishda 'Good morning' ishlatiladi.",
+  "example": "I go to the gym in the morning.",
+  "example_uz": "Men ertalab sport zaliga boraman.",
+  "topic": "Time",
+  "ielts_tip": "In the morning, in the afternoon, in the evening, at night."
+ },
+ {
+  "id": "a1_057",
+  "block": "a1_b03",
+  "word": "week",
+  "pos": "noun",
+  "ipa": {
+   "us": "/wiːk/",
+   "uk": "/wiːk/"
+  },
+  "uz": [
+   "hafta"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yetti kunlik muddat. 'Every week' (har hafta), 'last week' (o'tgan hafta), 'next week' (kelasi hafta) kabi birikmalar ko'p. 'Weekend' (dam olish kunlari) so'zining ham asosi.",
+  "example": "I go to English classes three times a week.",
+  "example_uz": "Men haftasiga uch marta ingliz tili darsiga boraman.",
+  "topic": "Time",
+  "ielts_tip": "Three times a week (a week = haftasiga)."
+ },
+ {
+  "id": "a1_058",
+  "block": "a1_b03",
+  "word": "month",
+  "pos": "noun",
+  "ipa": {
+   "us": "/mʌnθ/",
+   "uk": "/mʌnθ/"
+  },
+  "uz": [
+   "oy"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Taqvimdagi oy (yanvar, fevral va hokazo) yoki taxminan 30 kunlik muddat. 'Th' tovushi bilan tugaydi: tilning uchini tishlar orasiga qo'ying. O'zbek tilidagi 'oy' (Moon) ingliz tilida 'moon' bo'ladi, bu esa boshqa so'z.",
+  "example": "I started learning English three months ago.",
+  "example_uz": "Men ingliz tilini o'rganishni uch oy oldin boshladim.",
+  "topic": "Time",
+  "ielts_tip": "Talaffuz: month (mʌnθ), oxirgi 'th' tovushini mashq qiling."
+ },
+ {
+  "id": "a1_059",
+  "block": "a1_b03",
+  "word": "year",
+  "pos": "noun",
+  "ipa": {
+   "us": "/jɪr/",
+   "uk": "/jɪə/"
+  },
+  "uz": [
+   "yil"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "12 oylik muddat. 'Last year' (o'tgan yil), 'next year' (kelasi yil), 'this year' (shu yil). Yoshni aytishda 'I am 20 years old' deyiladi.",
+  "example": "I prepared for IELTS for one year.",
+  "example_uz": "Men IELTS ga bir yil tayyorlandim.",
+  "topic": "Time",
+  "ielts_tip": "Yoshni aytish: I am 20 years old."
+ },
+ {
+  "id": "a1_060",
+  "block": "a1_b03",
+  "word": "time",
+  "pos": "noun",
+  "ipa": {
+   "us": "/taɪm/",
+   "uk": "/taɪm/"
+  },
+  "uz": [
+   "vaqt",
+   "soat (necha)",
+   "marta"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Uch asosiy ma'nosi bor: 1) vaqt umuman ('I don't have time'), sanalmaydi; 2) soat ('What time is it?'); 3) marta ('three times'), sanaladi. 'On time' (o'z vaqtida) birikmasi ham muhim.",
+  "example": "I don't have much time in the evening.",
+  "example_uz": "Kechqurun vaqtim ko'p emas.",
+  "topic": "Time",
+  "ielts_tip": "Vaqt = sanalmaydigan (time), marta = sanaladigan (times). 'On time' = o'z vaqtida."
+ },
+ {
+  "id": "a1_061",
+  "block": "a1_b04",
+  "word": "today",
+  "pos": "adverb",
+  "ipa": {
+   "us": "/təˈdeɪ/",
+   "uk": "/təˈdeɪ/"
+  },
+  "uz": [
+   "bugun"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Hozirgi kunni bildiradi. 'Today' gapning boshida yoki oxirida kelishi mumkin. Old qo'shimchasi kerak emas: 'in today' emas, faqat 'today' deyiladi.",
+  "example": "I have an English class today.",
+  "example_uz": "Bugun mening ingliz tili darsim bor.",
+  "topic": "Time",
+  "ielts_tip": "Speaking'da 'today' o'rniga 'these days' (hozirgi kunlarda) ham ishlatish mumkin."
+ },
+ {
+  "id": "a1_062",
+  "block": "a1_b04",
+  "word": "tomorrow",
+  "pos": "adverb",
+  "ipa": {
+   "us": "/təˈmɑːroʊ/",
+   "uk": "/təˈmɒrəʊ/"
+  },
+  "uz": [
+   "ertaga"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Bugundan keyingi kun. Kelajakdagi ish haqida gapirganda ishlatiladi. Imlo: 'm' bitta, 'r' ikkita.",
+  "example": "I will call you tomorrow.",
+  "example_uz": "Men sizga ertaga qo'ng'iroq qilaman.",
+  "topic": "Time",
+  "ielts_tip": "Imlo: tomorrow (bitta m, ikkita r)."
+ },
+ {
+  "id": "a1_063",
+  "block": "a1_b04",
+  "word": "yesterday",
+  "pos": "adverb",
+  "ipa": {
+   "us": "/ˈjestərdeɪ/",
+   "uk": "/ˈjestədeɪ/"
+  },
+  "uz": [
+   "kecha"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Bugundan oldingi kun. O'tgan zamon bilan ishlatiladi: 'I went', 'I saw'. O'zbek tilidagi 'kecha' so'zi 'night' (tun) ma'nosini ham bildiradi, ingliz tilida bular boshqa so'zlar.",
+  "example": "I met my friend yesterday.",
+  "example_uz": "Men kecha do'stim bilan uchrashdim.",
+  "topic": "Time",
+  "ielts_tip": "Yesterday ko'pincha o'tgan zamon (Past Simple) bilan keladi."
+ },
+ {
+  "id": "a1_064",
+  "block": "a1_b04",
+  "word": "weather",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈweðər/",
+   "uk": "/ˈweðə/"
+  },
+  "uz": [
+   "ob-havo"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Havoning holati: issiq, sovuq, yomg'irli va hokazo. Sanalmaydigan ot: 'a weather' deb bo'lmaydi. 'Whether' (yoki) so'zi bilan bir xil o'qiladi, lekin ma'nosi boshqa.",
+  "example": "The weather is very nice today.",
+  "example_uz": "Bugun ob-havo juda yaxshi.",
+  "topic": "Weather",
+  "ielts_tip": "Speaking Part 1 da 'weather' mavzusi tez-tez keladi. Imlo: weather (whether bilan adashtirmang)."
+ },
+ {
+  "id": "a1_065",
+  "block": "a1_b04",
+  "word": "sun",
+  "pos": "noun",
+  "ipa": {
+   "us": "/sʌn/",
+   "uk": "/sʌn/"
+  },
+  "uz": [
+   "quyosh"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Osmondagi quyosh. Yagona narsa bo'lgani uchun 'the sun' deyiladi. 'Sunny' (quyoshli) sifati ham tez-tez ishlatiladi.",
+  "example": "The sun is very hot in summer.",
+  "example_uz": "Yozda quyosh juda issiq.",
+  "topic": "Weather",
+  "ielts_tip": "Artikl: the sun (yagona narsa uchun 'the')."
+ },
+ {
+  "id": "a1_066",
+  "block": "a1_b04",
+  "word": "rain",
+  "pos": "noun",
+  "ipa": {
+   "us": "/reɪn/",
+   "uk": "/reɪn/"
+  },
+  "uz": [
+   "yomg'ir"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yomg'ir. Fe'l sifatida ham ishlatiladi: 'It rains' (yomg'ir yog'adi), 'It is raining' (yomg'ir yog'ayapti). Sifati 'rainy' (yomg'irli).",
+  "example": "I don't like walking in the rain.",
+  "example_uz": "Men yomg'irda yurishni yoqtirmayman.",
+  "topic": "Weather",
+  "ielts_tip": "'It is raining' deymiz, 'The rain is falling' kamroq ishlatiladi."
+ },
+ {
+  "id": "a1_067",
+  "block": "a1_b04",
+  "word": "color",
+  "pos": "noun",
+  "ipa": {
+   "us": "/ˈkʌlər/",
+   "uk": "/ˈkʌlə/"
+  },
+  "uz": [
+   "rang"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Narsaning rangi. Amerika imlosi 'color', Britaniya imlosi 'colour'. IELTS'da ikkalasi ham to'g'ri hisoblanadi, lekin bitta ishda bir xil imloni qo'llang. Savol: 'What color is it?'.",
+  "example": "What is your favorite color?",
+  "example_uz": "Sevimli rangingiz qaysi?",
+  "topic": "Colors",
+  "ielts_tip": "Imlo: color (US) va colour (UK). Bir ishda bitta variantni tanlang."
+ },
+ {
+  "id": "a1_068",
+  "block": "a1_b04",
+  "word": "red",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/red/",
+   "uk": "/red/"
+  },
+  "uz": [
+   "qizil"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Qizil rang. Sifat otdan oldin keladi: 'a red car' (qizil mashina), o'zbek tilidagi tartibga o'xshash.",
+  "example": "She is wearing a red dress.",
+  "example_uz": "U qizil ko'ylak kiygan.",
+  "topic": "Colors",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_069",
+  "block": "a1_b04",
+  "word": "blue",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/bluː/",
+   "uk": "/bluː/"
+  },
+  "uz": [
+   "ko'k"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Osmon va dengiz rangi. O'zbek tilida 'ko'k' ham 'blue', ham 'green' ma'nosida ishlatilishi mumkin, ingliz tilida esa bu ikki alohida rang: 'blue' va 'green'.",
+  "example": "The sky is blue today.",
+  "example_uz": "Bugun osmon ko'k.",
+  "topic": "Colors",
+  "ielts_tip": "Blue = osmon rangi, green = yashil (o'zbekchada 'ko'k' ikkalasi uchun ishlatilishi mumkin)."
+ },
+ {
+  "id": "a1_070",
+  "block": "a1_b04",
+  "word": "green",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ɡriːn/",
+   "uk": "/ɡriːn/"
+  },
+  "uz": [
+   "yashil"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Yashil rang: o't, daraxt barglari. 'Green tea' (ko'k choy) birikmasida ham ishlatiladi. Atrof-muhit mavzusida 'green' 'ekologik toza' ma'nosini ham beradi.",
+  "example": "The trees in the park are green.",
+  "example_uz": "Parkdagi daraxtlar yashil.",
+  "topic": "Colors",
+  "ielts_tip": "Environment mavzusida 'green energy' (ekologik toza energiya) ko'p ishlatiladi."
+ },
+ {
+  "id": "a1_071",
+  "block": "a1_b04",
+  "word": "black",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/blæk/",
+   "uk": "/blæk/"
+  },
+  "uz": [
+   "qora"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Qora rang. 'Black tea' (qora choy), 'black hair' (qora soch) kabi birikmalarda keladi.",
+  "example": "He has short black hair.",
+  "example_uz": "Uning kalta qora sochlari bor.",
+  "topic": "Colors",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_072",
+  "block": "a1_b04",
+  "word": "white",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/waɪt/",
+   "uk": "/waɪt/"
+  },
+  "uz": [
+   "oq"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Oq rang. Imlo: boshida 'wh' keladi, talaffuzda esa asosan 'w' eshitiladi. 'White bread' (oq non), 'white shirt' (oq ko'ylak).",
+  "example": "She bought a white shirt.",
+  "example_uz": "U oq ko'ylak sotib oldi.",
+  "topic": "Colors",
+  "ielts_tip": "Imlo: white (wh bilan boshlanadi)."
+ },
+ {
+  "id": "a1_073",
+  "block": "a1_b04",
+  "word": "big",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/bɪɡ/",
+   "uk": "/bɪɡ/"
+  },
+  "uz": [
+   "katta"
+  ],
+  "synonyms": [
+   {
+    "w": "large",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "O'lchami katta narsa uchun. 'Large' rasmiyroq, ko'pincha yozma ishda ishlatiladi. Muhim ma'noni ham bildirishi mumkin: 'a big decision' (muhim qaror).",
+  "example": "We live in a big house.",
+  "example_uz": "Biz katta uyda yashaymiz.",
+  "topic": "Adjectives",
+  "ielts_tip": "Writing'da 'big' o'rniga 'large' yoki 'significant' ishlatsangiz, rasmiyroq bo'ladi."
+ },
+ {
+  "id": "a1_074",
+  "block": "a1_b04",
+  "word": "small",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/smɔːl/",
+   "uk": "/smɔːl/"
+  },
+  "uz": [
+   "kichik"
+  ],
+  "synonyms": [
+   {
+    "w": "little",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "O'lchami kichik narsa uchun. 'Little' ham 'kichik' ma'nosini beradi, lekin ko'pincha his-tuyg'u bilan: 'a little girl' (kichkina qizaloq). 'Small' esa betaraf va aniqroq.",
+  "example": "This is a small town.",
+  "example_uz": "Bu kichik shahar.",
+  "topic": "Adjectives",
+  "ielts_tip": ""
+ },
+ {
+  "id": "a1_075",
+  "block": "a1_b04",
+  "word": "good",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ɡʊd/",
+   "uk": "/ɡʊd/"
+  },
+  "uz": [
+   "yaxshi"
+  ],
+  "synonyms": [
+   {
+    "w": "nice",
+    "level": "A1"
+   },
+   {
+    "w": "great",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Sifat yoki sifatli narsa uchun ishlatiladi: 'a good book', 'good news'. 'Great' (a'lo) kuchliroq, 'nice' (yoqimli) esa odam va narsalarni samimiy maqtaydi. Ravish shakli 'well' (yaxshi): 'He speaks well', 'speaks good' emas.",
+  "example": "She is a good teacher.",
+  "example_uz": "U yaxshi o'qituvchi.",
+  "topic": "Adjectives",
+  "ielts_tip": "'Good' sifat: a good teacher. 'Well' ravish: speaks well."
+ },
+ {
+  "id": "a1_076",
+  "block": "a1_b04",
+  "word": "bad",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/bæd/",
+   "uk": "/bæd/"
+  },
+  "uz": [
+   "yomon"
+  ],
+  "synonyms": [
+   {
+    "w": "terrible",
+    "level": "B1"
+   },
+   {
+    "w": "awful",
+    "level": "B1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Sifati past yoki yoqimsiz narsa uchun: 'bad weather', 'bad news'. 'Terrible' va 'awful' ancha kuchli (juda yomon). Ravish shakli 'badly' (yomon): 'He plays badly'.",
+  "example": "The weather was bad yesterday.",
+  "example_uz": "Kecha ob-havo yomon edi.",
+  "topic": "Adjectives",
+  "ielts_tip": "Writing'da 'bad' o'rniga 'poor' yoki 'negative' ishlatsangiz, ball yaxshiroq."
+ },
+ {
+  "id": "a1_077",
+  "block": "a1_b04",
+  "word": "new",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/nuː/",
+   "uk": "/njuː/"
+  },
+  "uz": [
+   "yangi"
+  ],
+  "synonyms": [
+   {
+    "w": "modern",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Yaqinda paydo bo'lgan yoki yaratilgan narsa uchun. 'Modern' zamonaviy ma'nosini beradi. Imlo: 'new' (yangi) va 'knew' (bilar edi) bir xil o'qiladi.",
+  "example": "I bought a new phone last week.",
+  "example_uz": "Men o'tgan hafta yangi telefon sotib oldim.",
+  "topic": "Adjectives",
+  "ielts_tip": "Imlo: new (yangi) va knew (know ning o'tgan zamoni) bir xil o'qiladi."
+ },
+ {
+  "id": "a1_078",
+  "block": "a1_b04",
+  "word": "old",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/oʊld/",
+   "uk": "/əʊld/"
+  },
+  "uz": [
+   "eski",
+   "qari",
+   "katta yoshli"
+  ],
+  "synonyms": [
+   {
+    "w": "ancient",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Narsa uchun 'eski', odam uchun 'keksa' yoki yoshni so'rashda ishlatiladi: 'How old are you?'. Keksa odamga 'old' deyish ba'zan qo'pol eshitiladi, shuning uchun 'elderly' (keksa) ishlatiladi. 'Ancient' juda qadimiy narsalar uchun.",
+  "example": "This is a very old building.",
+  "example_uz": "Bu juda eski bino.",
+  "topic": "Adjectives",
+  "ielts_tip": "Yoshni so'rash: How old are you? (How many years emas)."
+ },
+ {
+  "id": "a1_079",
+  "block": "a1_b04",
+  "word": "hot",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/hɑːt/",
+   "uk": "/hɒt/"
+  },
+  "uz": [
+   "issiq",
+   "achchiq"
+  ],
+  "synonyms": [
+   {
+    "w": "warm",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Harorat yuqori bo'lgan narsa uchun ('hot weather', 'hot tea'). 'Warm' iliq, 'hot' esa kuchli issiq. Ovqatda 'hot' achchiq ma'nosini ham berishi mumkin ('hot sauce').",
+  "example": "It is very hot in Tashkent in July.",
+  "example_uz": "Toshkentda iyulda juda issiq.",
+  "topic": "Weather",
+  "ielts_tip": "Weather mavzusida: It's hot (issiq), It's warm (iliq), It's cold (sovuq)."
+ },
+ {
+  "id": "a1_080",
+  "block": "a1_b04",
+  "word": "cold",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/koʊld/",
+   "uk": "/kəʊld/"
+  },
+  "uz": [
+   "sovuq"
+  ],
+  "synonyms": [
+   {
+    "w": "cool",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Harorat past bo'lgan narsa uchun. 'Cool' salqin, 'cold' esa sovuq. Ot sifatida 'a cold' shamollash (kasallik) ma'nosini ham beradi: 'I have a cold'.",
+  "example": "The water is too cold to swim.",
+  "example_uz": "Suv suzish uchun juda sovuq.",
+  "topic": "Weather",
+  "ielts_tip": "I have a cold = men shamollaganman."
+ },
+ {
+  "id": "a1_081",
+  "block": "a1_b05",
+  "word": "happy",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ˈhæpi/",
+   "uk": "/ˈhæpi/"
+  },
+  "uz": [
+   "baxtli",
+   "xursand"
+  ],
+  "synonyms": [
+   {
+    "w": "glad",
+    "level": "A2"
+   },
+   {
+    "w": "pleased",
+    "level": "B1"
+   },
+   {
+    "w": "delighted",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Xursandlik yoki baxt tuyg'usini bildiradi. 'Glad' va 'pleased' kuchsizroq (xursandman), 'delighted' esa juda kuchli (behad xursandman). Qarama-qarshi ma'nosi 'unhappy'. Ravishi 'happily'.",
+  "example": "I am happy to see you again.",
+  "example_uz": "Sizni yana ko'rganimdan xursandman.",
+  "topic": "Feelings",
+  "ielts_tip": "Speaking'da 'happy' ni takrorlamang: delighted, thrilled, over the moon."
+ },
+ {
+  "id": "a1_082",
+  "block": "a1_b05",
+  "word": "easy",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ˈiːzi/",
+   "uk": "/ˈiːzi/"
+  },
+  "uz": [
+   "oson"
+  ],
+  "synonyms": [
+   {
+    "w": "simple",
+    "level": "A2"
+   },
+   {
+    "w": "straightforward",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Qiyinchiliksiz bajariladigan ish yoki narsa uchun. 'Simple' sodda va murakkab emas ma'nosini beradi. Qarama-qarshisi 'difficult'. 'It's easy to...' qolipi juda ko'p ishlatiladi.",
+  "example": "This exercise is easy for me.",
+  "example_uz": "Bu mashq men uchun oson.",
+  "topic": "Adjectives",
+  "ielts_tip": "Qolip: It is easy to learn new words."
+ },
+ {
+  "id": "a1_083",
+  "block": "a1_b05",
+  "word": "difficult",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ˈdɪfɪkəlt/",
+   "uk": "/ˈdɪfɪkəlt/"
+  },
+  "uz": [
+   "qiyin",
+   "murakkab"
+  ],
+  "synonyms": [
+   {
+    "w": "hard",
+    "level": "A1"
+   },
+   {
+    "w": "challenging",
+    "level": "B2"
+   },
+   {
+    "w": "tough",
+    "level": "B1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Ko'p kuch yoki vaqt talab qiladigan narsa. 'Hard' og'zaki nutqda ko'p, 'challenging' esa qiyin, lekin foydali ma'noda, ko'pincha ijobiy. Imlo uzun: dif-fi-cult.",
+  "example": "English grammar is sometimes difficult.",
+  "example_uz": "Ingliz tili grammatikasi ba'zan qiyin.",
+  "topic": "Adjectives",
+  "ielts_tip": "Writing'da 'difficult' o'rniga 'challenging' ishlating. Imlo: difficult (ikkita f)."
+ },
+ {
+  "id": "a1_084",
+  "block": "a1_b05",
+  "word": "beautiful",
+  "pos": "adjective",
+  "ipa": {
+   "us": "/ˈbjuːtɪfl/",
+   "uk": "/ˈbjuːtɪfl/"
+  },
+  "uz": [
+   "chiroyli",
+   "go'zal"
+  ],
+  "synonyms": [
+   {
+    "w": "pretty",
+    "level": "A2"
+   },
+   {
+    "w": "gorgeous",
+    "level": "B2"
+   },
+   {
+    "w": "stunning",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Odam, joy yoki narsaning go'zalligini maqtash uchun. 'Pretty' ko'proq qizlar va kichik narsalar uchun, 'gorgeous' va 'stunning' esa juda kuchli maqtov. Imlo: beau-ti-ful ('beauty' dan yasalgan).",
+  "example": "Samarkand is a beautiful city.",
+  "example_uz": "Samarqand go'zal shahar.",
+  "topic": "Adjectives",
+  "ielts_tip": "Speaking Part 2: joyni tasvirlashda 'stunning' va 'breathtaking' foydali."
+ },
+ {
+  "id": "a1_085",
+  "block": "a1_b05",
+  "word": "go",
+  "pos": "verb",
+  "ipa": {
+   "us": "/ɡoʊ/",
+   "uk": "/ɡəʊ/"
+  },
+  "uz": [
+   "bormoq",
+   "ketmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "travel",
+    "level": "A2"
+   },
+   {
+    "w": "head",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Bir joydan boshqa joyga harakat qilishni bildiradi. Tartibsiz fe'l: go - went - gone. 'Go to school/work' (maktabga/ishga bormoq) da artikl yo'q, 'go home' da 'to' kerak emas.",
+  "example": "I go to work by bus.",
+  "example_uz": "Men ishga avtobusda boraman.",
+  "topic": "Verbs",
+  "ielts_tip": "Tartibsiz fe'l: go - went - gone. 'Go home' (to home emas)."
+ },
+ {
+  "id": "a1_086",
+  "block": "a1_b05",
+  "word": "come",
+  "pos": "verb",
+  "ipa": {
+   "us": "/kʌm/",
+   "uk": "/kʌm/"
+  },
+  "uz": [
+   "kelmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "arrive",
+    "level": "A2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "So'zlovchi tomon harakat qilishni bildiradi. Tartibsiz fe'l: come - came - come. 'Go' (borish) bilan farqi: 'come' so'zlovchiga yaqinlashish, 'go' esa uzoqlashish. 'Come from' (...dan bo'lmoq): 'I come from Uzbekistan'.",
+  "example": "Please come to my house tomorrow.",
+  "example_uz": "Iltimos, ertaga uyimga keling.",
+  "topic": "Verbs",
+  "ielts_tip": "Speaking Part 1: 'Where do you come from?' (Qayerdansiz?)."
+ },
+ {
+  "id": "a1_087",
+  "block": "a1_b05",
+  "word": "eat",
+  "pos": "verb",
+  "ipa": {
+   "us": "/iːt/",
+   "uk": "/iːt/"
+  },
+  "uz": [
+   "yemoq",
+   "ovqatlanmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "have",
+    "level": "A1"
+   },
+   {
+    "w": "consume",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Ovqat yeyish. Tartibsiz fe'l: eat - ate - eaten. Ovqat nomlari bilan 'have' ham ishlatiladi ('have lunch'). 'Consume' rasmiy yozma uslubda.",
+  "example": "We eat dinner at seven.",
+  "example_uz": "Biz kechki ovqatni soat yettida yeymiz.",
+  "topic": "Verbs",
+  "ielts_tip": "Tartibsiz fe'l: eat - ate - eaten."
+ },
+ {
+  "id": "a1_088",
+  "block": "a1_b05",
+  "word": "drink",
+  "pos": "verb",
+  "ipa": {
+   "us": "/drɪŋk/",
+   "uk": "/drɪŋk/"
+  },
+  "uz": [
+   "ichmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "sip",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Suyuqlik ichish. Tartibsiz fe'l: drink - drank - drunk. Ot sifatida ham ishlatiladi: 'a cold drink' (sovuq ichimlik). 'Sip' esa sekin, ozgina-ozgina ichish.",
+  "example": "I drink tea after dinner.",
+  "example_uz": "Men kechki ovqatdan keyin choy ichaman.",
+  "topic": "Verbs",
+  "ielts_tip": "Tartibsiz fe'l: drink - drank - drunk."
+ },
+ {
+  "id": "a1_089",
+  "block": "a1_b05",
+  "word": "sleep",
+  "pos": "verb",
+  "ipa": {
+   "us": "/sliːp/",
+   "uk": "/sliːp/"
+  },
+  "uz": [
+   "uxlamoq"
+  ],
+  "synonyms": [
+   {
+    "w": "rest",
+    "level": "A2"
+   },
+   {
+    "w": "doze",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Uxlash jarayoni. Tartibsiz fe'l: sleep - slept - slept. 'Go to bed' yotishga ketish, 'sleep' esa uxlash jarayonining o'zi. 'Doze' qisqa vaqt mudrash.",
+  "example": "I sleep for eight hours every night.",
+  "example_uz": "Men har kecha sakkiz soat uxlayman.",
+  "topic": "Verbs",
+  "ielts_tip": "Tartibsiz fe'l: sleep - slept - slept. Ot shakli: sleep (uyqu)."
+ },
+ {
+  "id": "a1_090",
+  "block": "a1_b05",
+  "word": "work",
+  "pos": "verb",
+  "ipa": {
+   "us": "/wɜːrk/",
+   "uk": "/wɜːk/"
+  },
+  "uz": [
+   "ishlamoq",
+   "ish"
+  ],
+  "synonyms": [
+   {
+    "w": "labor",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Fe'l sifatida 'ishlamoq', ot sifatida 'ish' ma'nosini beradi. 'Work' sanalmaydigan ot ('a work' emas), sanaladigan variant esa 'job'. 'Work in a bank' (bankda ishlamoq), 'work as a teacher' (o'qituvchi bo'lib ishlamoq).",
+  "example": "My father works in a hospital.",
+  "example_uz": "Otam kasalxonada ishlaydi.",
+  "topic": "Work",
+  "ielts_tip": "Speaking Part 1: 'Do you work or study?' savoliga tayyor bo'ling. 'I work as...' qolipi."
+ },
+ {
+  "id": "a1_091",
+  "block": "a1_b05",
+  "word": "study",
+  "pos": "verb",
+  "ipa": {
+   "us": "/ˈstʌdi/",
+   "uk": "/ˈstʌdi/"
+  },
+  "uz": [
+   "o'qimoq",
+   "o'rganmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "learn",
+    "level": "A1"
+   },
+   {
+    "w": "revise",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Bilim olish, mavzuni o'rganish. 'Study' mavzuni chuqur o'rganish, 'learn' esa ko'nikma yoki bilim olish. Ot sifatida ham bor: 'a study' (tadqiqot). 'He studies' (y→ies), 'studied'.",
+  "example": "I study English every evening.",
+  "example_uz": "Men har kechqurun ingliz tilini o'rganaman.",
+  "topic": "Education",
+  "ielts_tip": "Uchinchi shaxs: studies (studys emas)."
+ },
+ {
+  "id": "a1_092",
+  "block": "a1_b05",
+  "word": "read",
+  "pos": "verb",
+  "ipa": {
+   "us": "/riːd/",
+   "uk": "/riːd/"
+  },
+  "uz": [
+   "o'qimoq"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Matn yoki kitobni o'qish. Tartibsiz fe'l: read - read - read. Hozirgi zamonda /riːd/, o'tgan zamonda esa yozilishi bir xil, lekin /red/ deb o'qiladi. Eslatma: 'study' mavzuni o'rganish, 'read' esa matnni o'qish.",
+  "example": "She reads a book every week.",
+  "example_uz": "U har hafta kitob o'qiydi.",
+  "topic": "Verbs",
+  "ielts_tip": "O'tgan zamon read /red/ (yozilishi bir xil, o'qilishi boshqa)."
+ },
+ {
+  "id": "a1_093",
+  "block": "a1_b05",
+  "word": "write",
+  "pos": "verb",
+  "ipa": {
+   "us": "/raɪt/",
+   "uk": "/raɪt/"
+  },
+  "uz": [
+   "yozmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "compose",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Harflar yoki so'zlarni yozish. Tartibsiz fe'l: write - wrote - written. 'W' harfi o'qilmaydi. 'Right' (to'g'ri) va 'write' bir xil o'qiladi, lekin ma'nosi boshqa.",
+  "example": "I write in my diary every night.",
+  "example_uz": "Men har kecha kundaligimga yozaman.",
+  "topic": "Verbs",
+  "ielts_tip": "Imlo: write (w o'qilmaydi), right bilan bir xil o'qiladi. Tartibsiz: write - wrote - written."
+ },
+ {
+  "id": "a1_094",
+  "block": "a1_b05",
+  "word": "listen",
+  "pos": "verb",
+  "ipa": {
+   "us": "/ˈlɪsn/",
+   "uk": "/ˈlɪsn/"
+  },
+  "uz": [
+   "tinglamoq"
+  ],
+  "synonyms": [],
+  "register": "neutral",
+  "usage_uz": "Ongli ravishda eshitishga harakat qilish. Hamisha 'to' bilan ishlatiladi: 'listen to music' ('listen music' emas). 'Hear' esa ixtiyorsiz eshitish. 't' harfi o'qilmaydi.",
+  "example": "I listen to English podcasts every day.",
+  "example_uz": "Men har kuni ingliz tilidagi podkastlarni tinglayman.",
+  "topic": "Verbs",
+  "ielts_tip": "Listen TO (listen music emas). Talaffuz: t o'qilmaydi."
+ },
+ {
+  "id": "a1_095",
+  "block": "a1_b05",
+  "word": "speak",
+  "pos": "verb",
+  "ipa": {
+   "us": "/spiːk/",
+   "uk": "/spiːk/"
+  },
+  "uz": [
+   "gapirmoq",
+   "so'zlashmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "talk",
+    "level": "A1"
+   },
+   {
+    "w": "say",
+    "level": "A1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Tilda gapirish yoki nutq so'zlash. Tartibsiz fe'l: speak - spoke - spoken. Tillar bilan: 'speak English'. 'Talk' ko'proq suhbat, 'speak' esa til yoki rasmiy nutq. 'Say' esa aytilgan so'zlar uchun.",
+  "example": "I can speak English and Russian.",
+  "example_uz": "Men ingliz va rus tillarida gapira olaman.",
+  "topic": "Verbs",
+  "ielts_tip": "Speak English (speak in English ham mumkin). Tartibsiz: speak - spoke - spoken."
+ },
+ {
+  "id": "a1_096",
+  "block": "a1_b05",
+  "word": "watch",
+  "pos": "verb",
+  "ipa": {
+   "us": "/wɑːtʃ/",
+   "uk": "/wɒtʃ/"
+  },
+  "uz": [
+   "tomosha qilmoq",
+   "kuzatmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "observe",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Harakatdagi narsani diqqat bilan kuzatish: 'watch TV', 'watch a film'. 'Look at' esa harakatsiz narsaga qarash, 'see' esa ko'rish. Ot sifatida 'watch' qo'l soati ma'nosini ham beradi.",
+  "example": "We watch a film every Friday.",
+  "example_uz": "Biz har juma kuni film tomosha qilamiz.",
+  "topic": "Verbs",
+  "ielts_tip": "Watch TV (look TV emas). 'Watch' = qo'l soati ham."
+ },
+ {
+  "id": "a1_097",
+  "block": "a1_b05",
+  "word": "buy",
+  "pos": "verb",
+  "ipa": {
+   "us": "/baɪ/",
+   "uk": "/baɪ/"
+  },
+  "uz": [
+   "sotib olmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "purchase",
+    "level": "B2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Pul to'lab biror narsani olish. Tartibsiz fe'l: buy - bought - bought. 'Purchase' rasmiy so'z (yozma ishda yaxshi). 'By' (yonida, tomonidan) va 'bye' bilan bir xil o'qiladi.",
+  "example": "I bought a new phone yesterday.",
+  "example_uz": "Men kecha yangi telefon sotib oldim.",
+  "topic": "Shopping",
+  "ielts_tip": "Tartibsiz: buy - bought - bought. Buy, by, bye bir xil o'qiladi."
+ },
+ {
+  "id": "a1_098",
+  "block": "a1_b05",
+  "word": "like",
+  "pos": "verb",
+  "ipa": {
+   "us": "/laɪk/",
+   "uk": "/laɪk/"
+  },
+  "uz": [
+   "yoqtirmoq",
+   "yoqmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "enjoy",
+    "level": "A2"
+   },
+   {
+    "w": "love",
+    "level": "A1"
+   },
+   {
+    "w": "adore",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Biror narsa yoqishini bildiradi. 'Enjoy' zavq olish, 'love' juda yoqtirish, 'adore' eng kuchli. 'Like' dan keyin fe'lning -ing shakli yoki 'to' keladi: 'I like reading' yoki 'I like to read'. 'Like' old ko'makchi sifatida 'kabi' ma'nosini ham beradi.",
+  "example": "I like learning new words.",
+  "example_uz": "Men yangi so'zlarni o'rganishni yoqtiraman.",
+  "topic": "Verbs",
+  "ielts_tip": "'I like' o'rniga 'I'm into', 'I enjoy', 'I'm fond of' ishlatsangiz, Speaking ballari yaxshilanadi."
+ },
+ {
+  "id": "a1_099",
+  "block": "a1_b05",
+  "word": "want",
+  "pos": "verb",
+  "ipa": {
+   "us": "/wɑːnt/",
+   "uk": "/wɒnt/"
+  },
+  "uz": [
+   "xohlamoq",
+   "istamoq"
+  ],
+  "synonyms": [
+   {
+    "w": "wish",
+    "level": "B1"
+   },
+   {
+    "w": "desire",
+    "level": "C1"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Biror narsa yoki ishni istash. Keyin 'to' bilan fe'l keladi: 'I want to go' ('I want go' emas). 'Would like' muloyimroq: 'I would like a coffee'. Rasmiy vaziyatda 'want' dan ko'ra 'would like' yaxshiroq.",
+  "example": "I want to improve my English.",
+  "example_uz": "Men ingliz tilimni yaxshilamoqchiman.",
+  "topic": "Verbs",
+  "ielts_tip": "Want TO + fe'l (want go emas). Muloyimroq: would like."
+ },
+ {
+  "id": "a1_100",
+  "block": "a1_b05",
+  "word": "live",
+  "pos": "verb",
+  "ipa": {
+   "us": "/lɪv/",
+   "uk": "/lɪv/"
+  },
+  "uz": [
+   "yashamoq",
+   "turmoq"
+  ],
+  "synonyms": [
+   {
+    "w": "reside",
+    "level": "C1"
+   },
+   {
+    "w": "dwell",
+    "level": "C2"
+   }
+  ],
+  "register": "neutral",
+  "usage_uz": "Biror joyda yashash yoki hayot kechirish. 'Live in' (shaharda/mamlakatda), 'live at' (aniq manzilda). 'Reside' rasmiy hujjatlarda. Eslatma: sifat sifatida 'live' /laɪv/ (jonli) bo'lib o'qiladi, fe'l esa /lɪv/.",
+  "example": "I live in Tashkent with my family.",
+  "example_uz": "Men oilam bilan Toshkentda yashayman.",
+  "topic": "Verbs",
+  "ielts_tip": "Speaking Part 1: 'Where do you live?' Javob: I live in... Talaffuz /lɪv/ (fe'l), /laɪv/ (jonli)."
+ }
+]
